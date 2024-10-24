@@ -4,7 +4,7 @@ import time
 import random
 import json
 
-with open(r'tree\assets\qwest — копия.json', 'r',encoding='utf-8' ) as file:
+with open(r'qwest — копия.json', 'r',encoding='utf-8' ) as file:
     data=json.load(file)
 n=0
  
